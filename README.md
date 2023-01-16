@@ -1,7 +1,6 @@
 # instabot-prox-t
 Instagram account theft
 # INSTALLATION [Termux] :
-- pip install webbrowser
 - pip install pyfiglet
 - pip install requests
 - pip install timestamp
