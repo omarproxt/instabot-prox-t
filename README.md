@@ -1,5 +1,7 @@
 # instabot-prox-t
 Instagram account theft
+# You must be logged into the bot for the tool to work
+- https://t.me/omarwoolf_bot
 # INSTALLATION [Termux] :
 - pip install pyfiglet
 - pip install requests
