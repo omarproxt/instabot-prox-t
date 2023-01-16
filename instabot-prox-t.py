@@ -15,6 +15,7 @@ Ya_Bs = '\033[1;34m'
 S_aBs = '\033[1;33m'
 logo = pyfiglet.figlet_format('omarproxt')
 print(a_bSa+logo)
+webbrowser.open('https://t.me/omarwoolf_bot')
 import requests
 import random
 from uuid import uuid4
